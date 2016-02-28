@@ -1,0 +1,19 @@
+#submitbutton{
+  position: relative;
+  left: 90px;
+}
+
+#commentsinput{
+  position: relative;
+  left: 10px;
+}
+
+#emailinput{
+  position: relative;
+  left: 36px;
+}
+
+#nameinput{
+  position: relative;
+  left: 40px;
+}
